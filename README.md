@@ -1,1 +1,0 @@
-# azdc-ankestraining.github.io
